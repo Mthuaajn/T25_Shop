@@ -1,0 +1,21 @@
+{
+    "discountPercentage": "14.87",
+    "rating": 4.93,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 0,
+    "images": [
+        "https://i.dummyjson.com/data/products/75/1.jpg",
+        "https://i.dummyjson.com/data/products/75/2.jpg",
+        "https://i.dummyjson.com/data/products/75/3.jpg",
+        "https://i.dummyjson.com/data/products/75/thumbnail.jpg"
+    ],
+    "_id": "65a9d7b4ad47b243bc49b007",
+    "title": "Seven Pocket Women Bag",
+    "description": "Seven Pocket Women Bag Handbags Lady Shoulder Crossbody Bag Female Purse Seven Pocket Bag",
+    "price": 68,
+    "stock": 13,
+    "brand": "Steal Frame",
+    "category": "womens-bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/75/thumbnail.jpg",
+    "id": "65a9d7b4ad47b243bc49b007"
+}
