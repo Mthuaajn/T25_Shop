@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"npm run dev-web-be\" \"npm run dev-web-fe\" \"npm run dev-payment-system\"",
     "start": "concurrently \"npm run start-web-be\" \"npm run start-web-fe\" \"npm run start-payment-system\"",
-    "start-web-be": "cd web-back-end && npm run start",
+    "start-web-be": "cd web-back-end && npm run dev",
     "start-web-fe": "cd web-front-end && npm run dev",
-    "start-payment-system": "cd web-payment-system && npm run start"
+    "start-payment-system": "cd web-payment-system && npm run dev"
   },
   "author": "thuan",
   "license": "ISC",

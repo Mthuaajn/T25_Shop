@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "dev": "nodemon sever.js",
     "start": " nodemon sever.js",
     "start:prod": "set NODE_ENV=production&& nodemon sever.js",
     "debug": "ndb sever.js",
